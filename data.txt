@@ -1,3 +1,4 @@
 Name: Anna
 Age: 25
 Favorite Color: green
+City: Berlin
